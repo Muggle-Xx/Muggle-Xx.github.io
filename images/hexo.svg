@@ -1,9 +1,19 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg t="1542379931426" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
-     p-id="1734" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128">
-    <defs>
-        <style type="text/css"></style>
-    </defs>
-    <path d="M512 0.288L66.976 258.368v511.744L512 1023.776l445.024-258.08V253.952L512 0.288z m204.704 729.824l-40.064 22.24-40.064-22.24v-178.016h-249.184v178.016l-40.096 22.24-40.032-22.24V293.984l40.064-22.24 40.064 22.24v178.016h249.184V293.984l40.096-22.24 40.032 22.24v436.128z"
-          fill="#1e3e3f" p-id="1735"></path>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_2_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#141616" id="canvas_background" height="482" width="642" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_2_blur)" font-weight="bold" font-style="italic" stroke="#000" transform="matrix(5.901535274171637,0,0,7.835308226517828,-1214.070100204897,-1135.4466478578656) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_2" y="183.619432" x="222.403096" stroke-width="0" fill="#f9efef">Muggle</text>
+ </g>
 </svg>
