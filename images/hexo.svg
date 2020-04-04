@@ -1,19 +1,19 @@
 <svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
  <defs>
-  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_2_blur">
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_1_blur">
    <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
   </filter>
  </defs>
  <g>
   <title>background</title>
-  <rect fill="#141616" id="canvas_background" height="482" width="642" y="-1" x="-1"/>
+  <rect fill="#ffffff" id="canvas_background" height="482" width="642" y="-1" x="-1"/>
   <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
    <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
   </g>
  </g>
  <g>
   <title>Layer 1</title>
-  <text filter="url(#svg_2_blur)" font-weight="bold" font-style="italic" stroke="#000" transform="matrix(5.901535274171637,0,0,7.835308226517828,-1214.070100204897,-1135.4466478578656) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_2" y="183.619432" x="222.403096" stroke-width="0" fill="#f9efef">Muggle</text>
+  <text stroke="#f9f4f4" transform="matrix(2.586248159408569,0,0,2.8556213378906237,-511.51920771226287,-446.26380109787) " font-style="italic" font-weight="bold" filter="url(#svg_1_blur)" xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_1" y="248.401563" x="284" stroke-width="0" fill="#0f0f00">Muggle</text>
  </g>
 </svg>
