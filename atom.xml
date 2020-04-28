@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>XXN</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-28T09:31:42.604Z</updated>
+  <updated>2020-04-28T09:40:04.550Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/03/16/first/"/>
     <id>http://yoursite.com/2020/03/16/first/</id>
     <published>2020-03-16T15:32:02.766Z</published>
-    <updated>2020-04-28T09:31:42.604Z</updated>
+    <updated>2020-04-28T09:40:04.550Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+          &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt;
         
       
     
