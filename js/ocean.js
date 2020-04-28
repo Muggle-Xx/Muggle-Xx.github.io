@@ -1,6 +1,7 @@
 (function ($) {
   //
   // Search ------------
+  console.log('早点睡觉吧xqy 这是给小彩蛋你能发现吗？');
   var $searchWrap = $('.search-form-wrap'),
     isSearchAnim = false,
     searchAnimDuration = 200;
